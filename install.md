@@ -1,6 +1,8 @@
-# instal
+# install
 ## requirement 
 * Windows 10
 * JDK 1.1
 
-시험잘 보게 해주세요
+## install
+1. Download file
+1. Unzip file
